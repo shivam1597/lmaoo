@@ -3,10 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "043bc87e4fedd31c263de9ec1aca23a9",
-"assets/assets/bg.jpg": "66b7ccbb2a8596025307ac268665e314",
+  "assets/AssetManifest.json": "f562f284ee448729d929aeb1b2062c30",
+"assets/assets/404_error.gif": "f0900e8ecb97e7018086f11b5425379a",
 "assets/assets/fonts/Blueberry%2520.ttf": "77477bf3a5df16d9d1308a08ff179ce4",
-"assets/assets/Gen%2520Z.gif": "f70e42250d95cbc58df97c10af3a8ffc",
 "assets/assets/lmaoo.png": "5463564550f82a34c4130f30689159e2",
 "assets/assets/privacy_policy.html": "e4723022f4fa300edb408ec03fd048e6",
 "assets/assets/question_json.json": "3d9e49e849bdfae35a75c8d0029d5dd2",
@@ -48,9 +47,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8a58764bb631e9e1f1c698db6c92845a",
-"/": "8a58764bb631e9e1f1c698db6c92845a",
-"main.dart.js": "3b3e02b754969a06c6c709a26d6e1fc4",
+"index.html": "0e9df396eeb1acf64266d8a44bdf3812",
+"/": "0e9df396eeb1acf64266d8a44bdf3812",
+"main.dart.js": "034d7b0164688afe6f5afc2b1932757d",
 "manifest.json": "0484ad70aa94c7680ae27d4f86ca7d18",
 "version.json": "ec5601636af62f91ce4d8b83bec11798"
 };
