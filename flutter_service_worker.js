@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "dc2848f799fb257db64ea924170eb78f",
+const RESOURCES = {"404.html": "b3e624ba18e6b3871805e276247172a4",
+"assets/AssetManifest.bin": "dc2848f799fb257db64ea924170eb78f",
 "assets/AssetManifest.json": "98e2db11de56b1f20f3bd3e7a8b4935b",
 "assets/assets/404_error.gif": "f0900e8ecb97e7018086f11b5425379a",
 "assets/assets/fonts/Blueberry%2520.ttf": "77477bf3a5df16d9d1308a08ff179ce4",
@@ -32,9 +33,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "dc2848f799fb257db64ea924170eb78f
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b460f1c3443865f07405a71bd8ad4b07",
-"/": "b460f1c3443865f07405a71bd8ad4b07",
-"main.dart.js": "c55ccaba1407f1f0e609ad6dffc2ae01",
+"index.html": "e7621c31692e09b893ca121a9c8e7110",
+"/": "e7621c31692e09b893ca121a9c8e7110",
+"main.dart.js": "78f8ca5958eb35026ea0610339e49353",
 "manifest.json": "0484ad70aa94c7680ae27d4f86ca7d18",
 "version.json": "ec5601636af62f91ce4d8b83bec11798"};
 // The application shell files that are downloaded before a service worker can
